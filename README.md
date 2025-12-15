@@ -1,5 +1,9 @@
 # Amazon Sales & Product Performance Analytics
 
+## 🔗 Project Links
+- **Live Dashboard / Project Demo:** https://app.powerbi.com/view?r=eyJrIjoiMGI0ZGE5YmQtNTZmNC00MDJlLThiMGUtZDM1ZmI0NDlmN2IxIiwidCI6ImFlMTE2MWUxLTI1ODMtNGU2ZS05ZjFkLWIyMzViNGU1NDE3OSJ9
+- **LinkedIn :** www.linkedin.com/in/analystganpatchoudhary
+
 ## 🔍 Project Overview
 This project presents an end-to-end sales and product performance analysis for Amazon India using **SQL, Excel, and Power BI**.  
 The dashboard enables stakeholders to monitor revenue, sales units, product trends, customer engagement, and geographic performance to support data-driven business decisions.
